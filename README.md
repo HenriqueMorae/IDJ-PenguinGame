@@ -1,6 +1,8 @@
 # IDJ-PenguinGame
 Trabalhos de IDJ - 180033000
 
+![Logo](https://github.com/HenriqueMorae/IDJ-PenguinGame/blob/main/Trabalhos/T2/img/penguinface.png)
+
 ## 🐧 About
 A simple C++ engine made in the Introduction to Game Development class. While developing the engine, we also developed a game: The Penguin Game!
 
